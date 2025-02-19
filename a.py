@@ -1,4 +1,8 @@
 import math
 print("1")
 print("change 1")
-print(math.exp(math.pi))
+if(math.exp(math.pi)>5):
+    k="yyy"
+else:
+    k="fff"
+print(k)
