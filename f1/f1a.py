@@ -7,7 +7,7 @@ print("2")
 print("change 2 ",end="")
 a=int(input("aaa : "))
 print(abs(a))
-t=[1,2,3]
+t=[1,2,3,4,5]
 print(t[a%3])
 #uuu
 i=10

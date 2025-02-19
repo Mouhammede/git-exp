@@ -5,4 +5,5 @@ if(math.exp(math.pi)>5):
     k="yyy"
 else:
     k="fff"
-print(k)
+i=int(k)
+print(i+" "+k)
