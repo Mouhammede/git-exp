@@ -6,5 +6,6 @@ if(math.exp(math.pi)>5):
 else:
     # forgot what this das
     k="fff"
+    #23/02/2025 sumthing is not right
 i=int(k)
 print(i+" "+k)
