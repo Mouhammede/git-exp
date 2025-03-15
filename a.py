@@ -5,7 +5,7 @@ if(math.exp(math.pi)>5):
     k="yyy"
 else:
     # forgot what this das
-    k="fff"
+    k="zzz"
     #23/02/2025 sumthing is not right
-i=int(k)
-print(i+" "+k)
+i=math.exp(math.pi)
+print(i+"\t"+k)
